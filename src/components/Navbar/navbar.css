@@ -1,5 +1,5 @@
 .navbar {
-    background: rgb(30,30,30);
+    background: rgb(50, 50, 50);
     height: 5rem;
     width: 100vw;
     margin: 0 auto;
@@ -23,21 +23,9 @@
     border-bottom: 3px solid;
 }
 .desktopMenuButton {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: none;
-    padding: 0 1rem;
-    border-radius: 2rem;
     background: white;
-    color: black;
-    cursor: pointer;
 }
 
 .desktopMenuImage {
-    object-fit: cover;
-    height: 1rem;
-    width: 1 rem;
-    margin: 1rem;
     background-color: white;
 }
