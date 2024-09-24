@@ -1,0 +1,40 @@
+#projects {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.projectsTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+ 
+.projectBars {
+    flex-wrap: wrap;
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+.projectBar {
+    object-fit: wrap;
+    height: 20rem;
+    display: flex;
+    margin: 0.5rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50, 50, 50);
+}
+
+.projectLink {
+    line-height: 5;
+    font-size: 1.5rem;
+}

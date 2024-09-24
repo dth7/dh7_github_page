@@ -5,6 +5,7 @@
   "private": false,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "",
+    "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
