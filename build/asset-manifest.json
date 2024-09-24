@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.307ae2e8.css",
+    "main.js": "./static/js/main.db9607d6.js",
+    "static/media/portrait.png": "./static/media/portrait.29571df35023c1f5a43a.png",
+    "static/media/nodejs-logo.png": "./static/media/nodejs-logo.d980d9636ace07ad3dde.png",
+    "static/media/react-logo.png": "./static/media/react-logo.404167651b40e37feacf.png",
+    "index.html": "./index.html",
+    "main.307ae2e8.css.map": "./static/css/main.307ae2e8.css.map",
+    "main.db9607d6.js.map": "./static/js/main.db9607d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307ae2e8.css",
+    "static/js/main.db9607d6.js"
+  ]
+}
